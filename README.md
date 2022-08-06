@@ -19,20 +19,21 @@
 
 <hr>
 <p style="display: flex; justify-content: space-between;">
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="stats" width="450px" height="210px" src="https://github-readme-stats.vercel.app/api?username=khasanrashidov&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Khasan's github statistics" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="stats" width="450px" height="210px" src="https://github-readme-stats.vercel.app/api?username=khasanrashidov&show_icons=true&include_all_commits=true&theme=shades-of-purple&hide_border=true" alt="Khasan's github statistics" />
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="250px" height="200px" src="https://github-contribution-stats.vercel.app/api/?username=khasanrashidov" />
 </p>
 
 <hr>
 
 <p style="display: flex; justify-content: space-between;">
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="Top Languages" width="365px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasanrashidov&layout=compact&theme=synthwave&hide_border=true" />
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=khasanrashidov&theme=prussian&count_private=true" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="Top Languages" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasanrashidov&layout=compact&theme=shades-of-purple&hide_border=true" />
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=khasanrashidov&theme=shades-of-purple&count_private=true" />
 </p>
 
 <hr>
 
 ## 🧰 &nbsp;My toolbox
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
 
 <hr>
 <!---
