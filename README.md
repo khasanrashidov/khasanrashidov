@@ -4,6 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Khasan%20Rashidov-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/khasan-rashidov-23a221237)  [![Mail](https://img.shields.io/badge/Gmail-khasanrashidov2002@gmail.com-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:khasanrashidov2002@gmail.com)  [![Telegram](https://img.shields.io/badge/Telegram-khasanrashidov-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me//khasanrashidov)
 [![KakaoTalk](https://img.shields.io/badge/KakaoTalk%20ID-khasanrashidov-blue?logo=KakaoTalk&logoColor=labelColor=black)](mailto:khasanrashidov@kakao.com)
+[![Github](https://img.shields.io/badge/Github-khasanr-blue?logo=Github&logoColor=labelColor=black)](https://github.com/khasanrashidov)
 
 
 
