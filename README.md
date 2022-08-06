@@ -1,4 +1,4 @@
-<h2 align='center'><samp><strong>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I am Khasan Rashidov.</strong></samp></h2>
+<h2 align='center'><samp><strong>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I am Khasan Rashidov.<img height="28px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></strong></samp></h2>
 
 📝✍📧 ***Please don’t hesitate to contact me*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/khasanrashidov?label=Follow%20Me&style=social)](https://github.com/khasanrashidov)  [![Github](https://img.shields.io/github/stars/khasanrashidov?affiliations=OWNER&style=social)](https://github.com/khasanrashidov)  [![Github](https://img.shields.io/github/watchers/khasanrashidov/khasanrashidov?style=social)](https://github.com/khasanrashidov)  [![visitors](https://visitor-badge.glitch.me/badge?page_id=khasanrashidov.khasanrashidov?style=social)](https://github.com/khasanrashidov)
 
