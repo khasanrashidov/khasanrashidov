@@ -10,8 +10,8 @@
 
 <hr>
 <p style="display: flex; justify-content: space-between;">
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="stats" width="600px" height="250px" src="https://github-readme-stats.vercel.app/api?username=khasanrashidov&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Khasan's github statistics" />
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="300px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=khasanrashidov" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="stats" width="300px" height="200px" src="https://github-readme-stats.vercel.app/api?username=khasanrashidov&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Khasan's github statistics" />
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="250px" height="210px" src="https://github-contribution-stats.vercel.app/api/?username=khasanrashidov" />
 </p>
 
 <hr>
