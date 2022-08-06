@@ -1,6 +1,6 @@
-<h2 align='center'><samp><strong>Hello 👋, I am Khasan Rashidov.</strong></samp></h2>
+<h2 align='center'><samp><strong>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I am Khasan Rashidov.</strong></samp></h2>
 
-📝✍📧 ***Please don’t hesitate to contact me*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/khasanrashidov?label=Follow%20Me&style=social)](https://github.com/khasanrashidov)  [![Github](https://img.shields.io/github/stars/khasanrashidov?affiliations=OWNER&style=social)](https://github.com/khasanrashidov)  [![Github](https://img.shields.io/github/watchers/khasanrashidov/khasanrashidov?style=social)](https://github.com/khasanrashidov)
+📝✍📧 ***Please don’t hesitate to contact me*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/khasanrashidov?label=Follow%20Me&style=social)](https://github.com/khasanrashidov)  [![Github](https://img.shields.io/github/stars/khasanrashidov?affiliations=OWNER&style=social)](https://github.com/khasanrashidov)  [![Github](https://img.shields.io/github/watchers/khasanrashidov/khasanrashidov?style=social)](https://github.com/khasanrashidov)  [![visitors](https://visitor-badge.glitch.me/badge?page_id=khasanrashidov.khasanrashidov?style=social)](https://github.com/khasanrashidov)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Khasan%20Rashidov-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/khasan-rashidov-23a221237)  [![Mail](https://img.shields.io/badge/Gmail-khasanrashidov2002@gmail.com-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:khasanrashidov2002@gmail.com)  [![Telegram](https://img.shields.io/badge/Telegram-khasanrashidov-blue?logo=Telegram&logoColor=blue&labelColor=black)](https://t.me//khasanrashidov)
 [![Github](https://img.shields.io/badge/Github-khasanr-grey?logo=Github&labelColor=black)](https://github.com/khasanr)
@@ -27,7 +27,7 @@
 
 <p style="display: flex; justify-content: space-between;">
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="Top Languages" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasanrashidov&layout=compact&theme=shades-of-purple&bg_color=00000000&hide_border=true" />
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=khasanrashidov&theme=shades-of-purple&count_private=true" />
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" src="https://github-readme-streak-stats.herokuapp.com/?user=khasanrashidov&theme=shades-of-purple&count_private=true" />
 </p>
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 <hr>
