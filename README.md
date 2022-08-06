@@ -29,11 +29,18 @@
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="Top Languages" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasanrashidov&layout=compact&theme=shades-of-purple&hide_border=true" />
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=khasanrashidov&theme=shades-of-purple&count_private=true" />
 </p>
-
+NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 <hr>
 
-## 🧰 &nbsp;My toolbox
-<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
+## My Tools
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![CPP](https://img.shields.io/badge/-C++-D5E4F3?style=flat-square&logo=cplusplus&logoColor=044F88)
+![C](https://img.shields.io/badge/-C-D5E4F3?style=flat-square&logo=c&logoColor=044F88)
+![Python](https://img.shields.io/badge/-Python-FFD242?style=flat-square&logo=python)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+
 
 <hr>
 <!---
