@@ -40,6 +40,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-EA2A30?style=flat-square&logo=html5&logoColor=0474BB)
 
 
 <hr>
