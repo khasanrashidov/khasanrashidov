@@ -1,6 +1,7 @@
 <h2 align='center'><samp><strong>Hello 👋, I am Khasan Rashidov.</strong></samp></h2>
 
-📝✍📧 ***Please don’t hesitate to contact me*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/khasanrashidov?label=Follow%20Me&style=social)](https://github.com/khasanrashidov)  [![Github](https://img.shields.io/github/stars/khasanrashidov?affiliations=OWNER&style=social)](https://github.com/khasanrashidov)  [![Github](https://img.shields.io/github/watchers/khasanrashidov/khasanrashidov?style=social)](https://github.com/khasanrashidov)
+📝✍📧 ***Please don’t hesitate to contact me*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/khasanrashidov?label=Follow%20Me&style=social)](https://github.com/khasanrashidov)  [![Github](https://img.shields.io/github/stars/khasanrashidov?affiliations=OWNER&style=social)](https://github.com/khasanrashidov)  [![Github](https://img.shields.io/github/watchers/khasanrashidov/khasanrashidov?style=social)](https://github.com/khasanrashidov)  [![Linkedin](https://img.shields.io/badge/LinkedIn-Khasan%20Rashidov-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/khasan-rashidov-23a221237
+)
 
 - 👋 Hi, I’m @khasanrashidov
 - 👀 I’m interested in mathematics
