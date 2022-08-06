@@ -19,14 +19,14 @@
 
 <hr>
 <p style="display: flex; justify-content: space-between;">
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="stats" width="450px" height="210px" src="https://github-readme-stats.vercel.app/api?username=khasanrashidov&show_icons=true&include_all_commits=true&theme=shades-of-purple&hide_border=true" alt="Khasan's github statistics" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="stats" width="450px" height="210px" src="https://github-readme-stats.vercel.app/api?username=khasanrashidov&show_icons=true&include_all_commits=true&theme=shades-of-purple&bg_color=00000000&hide_border=true" alt="Khasan's github statistics" />
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="250px" height="200px" src="https://github-contribution-stats.vercel.app/api/?username=khasanrashidov" />
 </p>
 
 <hr>
 
 <p style="display: flex; justify-content: space-between;">
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="Top Languages" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasanrashidov&layout=compact&theme=shades-of-purple&hide_border=true" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="Top Languages" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasanrashidov&layout=compact&theme=shades-of-purple&bg_color=00000000&hide_border=true" />
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=khasanrashidov&theme=shades-of-purple&count_private=true" />
 </p>
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
