@@ -32,7 +32,7 @@
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
 <hr>
 
-## My Tools
+## My Tech Stack
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![CPP](https://img.shields.io/badge/-C++-D5E4F3?style=flat-square&logo=cplusplus&logoColor=044F88)
 ![C](https://img.shields.io/badge/-C-D5E4F3?style=flat-square&logo=c&logoColor=044F88)
