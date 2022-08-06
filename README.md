@@ -11,22 +11,15 @@
 <hr>
 <p style="display: flex; justify-content: space-between;">
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="stats" width="500px" height="200px" src="https://github-readme-stats.vercel.app/api?username=khasanrashidov&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Khasan's github statistics" />
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="400px" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasanrashidov&layout=compact&theme=nord&hide_border=true" />
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="300px" height="260px" src="https://github-contribution-stats.vercel.app/api/?username=khasanrashidov" />
 </p>
 
 <hr>
 <div >
   <a href="https://github.com/khasanrashidov/khasanrashidov" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasanrashidov&layout=compact&theme=nord&hide_border=true" />
+    <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasanrashidov&layout=compact&theme=nord&hide_border=true" />
   </a> 
 </div>
-
-<hr>
-<div >
-  <a href="https://github.com/khasanrashidov/khasanrashidov" >
-    <img align="center" src="https://github-contribution-stats.vercel.app/api/?username=khasanrashidov" />
-  </a> 
-</div> 
 
 
 
