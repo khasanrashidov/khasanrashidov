@@ -19,19 +19,22 @@
 
 <hr>
 <p style="display: flex; justify-content: space-between;">
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="stats" width="450px" height="210px" src="https://github-readme-stats.vercel.app/api?username=khasanrashidov&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Khasan's github statistics" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="stats" width="450px" height="210px" src="https://github-readme-stats.vercel.app/api?username=khasanrashidov&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Khasan's github statistics" />
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="250px" height="200px" src="https://github-contribution-stats.vercel.app/api/?username=khasanrashidov" />
 </p>
 
 <hr>
-<div >
-  <a href="https://github.com/khasanrashidov/khasanrashidov" >
-    <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasanrashidov&layout=compact&theme=nord&hide_border=true" />
-  </a> 
-</div>
+
+<p style="display: flex; justify-content: space-between;">
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="Top Languages" width="365px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasanrashidov&layout=compact&theme=synthwave&hide_border=true" />
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=khasanrashidov&theme=prussian&count_private=true" />
+</p>
 
 <hr>
 
+## 🧰 &nbsp;My toolbox
+
+<hr>
 <!---
 khasanrashidov/khasanrashidov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
