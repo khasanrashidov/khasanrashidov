@@ -33,8 +33,11 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 <hr>
 
-## My Tech Stack
+## My Tech Stack and Operating Systems
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Windows](https://img.shields.io/badge/-Windows-055C9D?style=flat-square&logo=windows)
+![Linux](https://img.shields.io/badge/-Linux-3B3B3B?style=flat-square&logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-EFA78E?style=flat-square&logo=ubuntu)
 ![CPP](https://img.shields.io/badge/-C++-D5E4F3?style=flat-square&logo=cplusplus&logoColor=044F88)
 ![C](https://img.shields.io/badge/-C-D5E4F3?style=flat-square&logo=c&logoColor=044F88)
 ![Python](https://img.shields.io/badge/-Python-FFD242?style=flat-square&logo=python)
