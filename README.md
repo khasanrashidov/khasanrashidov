@@ -47,7 +47,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat-square&logo=mysql&logoColor=E48E1A)
 <img alt="Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?style=flat-square&logo=asm-hex&logoColor=white">
 <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-ffffff.svg?style=flat-square&logo=java&logoColor=EA2A30">
-<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=flat-square&logo=github&logoColor=white">
+<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-grey.svg?style=flat-square&logo=github&logoColor=white">
 
 <hr>
 
