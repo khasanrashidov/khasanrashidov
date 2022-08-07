@@ -33,18 +33,21 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 <hr>
 
-## My Tech Stack and Operating Systems
+## My Tech Stack
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Windows](https://img.shields.io/badge/-Windows-055C9D?style=flat-square&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat-square&logo=linux&logoColor=000000)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-EFA78E?style=flat-square&logo=ubuntu)
 ![CPP](https://img.shields.io/badge/-C++-D5E4F3?style=flat-square&logo=cplusplus&logoColor=044F88)
-![C](https://img.shields.io/badge/-C-D5E4F3?style=flat-square&logo=c&logoColor=044F88)
+<img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-D5E4F3.svg?style=flat-square&logo=c-in-hexagon&logoColor=044F88">
 ![Python](https://img.shields.io/badge/-Python-FFD242?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat-square&logo=mysql&logoColor=E48E1A)
+<img alt="Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?style=flat-square&logo=asm-hex&logoColor=white">
+<img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white">
+<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=flat-square&logo=github&logoColor=white">
 
 <hr>
 
@@ -52,6 +55,12 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 <img style alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=khasanrashidov&theme=nord&bg_color=00000000&hide_border=true&no-frame=true" />
 
 <hr>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Khasan Rashidov's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=khasanrashidov&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<hr>
+
 
 <!---
 khasanrashidov/khasanrashidov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
