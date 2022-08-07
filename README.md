@@ -45,7 +45,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat-square&logo=mysql&logoColor=E48E1A)
-<img alt="Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-525252.svg?style=flat-square&logo=asm-hex&logoColor=white">
+<img alt="Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-7272FF.svg?style=flat-square&logo=asm-hex&logoColor=white">
 <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-ffffff.svg?style=flat-square&logo=java&logoColor=EA2A30">
 <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-grey.svg?style=flat-square&logo=github&logoColor=white">
 
@@ -56,7 +56,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 <hr>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Khasan Rashidov's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=khasanrashidov&bg_color=00000000&color=F8D866&line=2EFF2E&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Khasan Rashidov's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=khasanrashidov&bg_color=00000000&color=F8D866&line=7272FF&point=FFFFFF&hide_border=true" /></a>
 
 <hr>
 
