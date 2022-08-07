@@ -30,6 +30,7 @@
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" src="https://github-readme-streak-stats.herokuapp.com/?user=khasanrashidov&theme=shades-of-purple&count_private=true" />
 </p>
 NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
+
 <hr>
 
 ## My Tech Stack
@@ -42,6 +43,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 
 <hr>
+
 <!---
 khasanrashidov/khasanrashidov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
