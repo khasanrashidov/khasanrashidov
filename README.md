@@ -36,7 +36,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ## My Tech Stack and Operating Systems
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Windows](https://img.shields.io/badge/-Windows-055C9D?style=flat-square&logo=windows)
-![Linux](https://img.shields.io/badge/-Linux-3B3B3B?style=flat-square&logo=linux)
+![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat-square&logo=linux&logoColor=000000)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-EFA78E?style=flat-square&logo=ubuntu)
 ![CPP](https://img.shields.io/badge/-C++-D5E4F3?style=flat-square&logo=cplusplus&logoColor=044F88)
 ![C](https://img.shields.io/badge/-C-D5E4F3?style=flat-square&logo=c&logoColor=044F88)
@@ -44,6 +44,12 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat-square&logo=mysql&logoColor=E48E1A)
+
+<hr>
+
+## Trophies
+<img style alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=khasanrashidov&theme=onedark&bg_color=00000000&hide_border=true" />
 
 <hr>
 
