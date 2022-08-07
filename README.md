@@ -49,7 +49,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 <hr>
 
 ## Trophies
-<img style alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=khasanrashidov&theme=nord&bg_color=00000000&hide_border=true" />
+<img style alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=khasanrashidov&theme=nord&bg_color=00000000&hide_border=true&no-frame=true" />
 
 <hr>
 
