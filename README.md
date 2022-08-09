@@ -39,6 +39,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-68217A?style=flat-square&logo=visual-studio)
 ![Windows](https://img.shields.io/badge/-Windows-055C9D?style=flat-square&logo=windows)
 ![Vim](https://img.shields.io/badge/-Vim-005D04?style=flat-square&logo=vim)
+![MATLAB](https://img.shields.io/badge/-MATLAB-ABB8FF?style=flat-square&logo=matlab)
 ![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat-square&logo=linux&logoColor=000000)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-EFA78E?style=flat-square&logo=ubuntu)
 ![CPP](https://img.shields.io/badge/-C++-D5E4F3?style=flat-square&logo=cplusplus&logoColor=044F88)
