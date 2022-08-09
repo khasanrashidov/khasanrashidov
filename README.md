@@ -13,6 +13,7 @@
 
 - 👋 Hi, I’m @khasanrashidov
 - 👀 I’m interested in mathematics
+- 🏸 I like playing badminton
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on various useful projects
 - 📫 How to reach me https://t.me//khasanrashidov
