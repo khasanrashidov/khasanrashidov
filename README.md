@@ -36,6 +36,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 ## My Tech Stack
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-68217A?style=flat-square&logo=visual-studio)
 ![Windows](https://img.shields.io/badge/-Windows-055C9D?style=flat-square&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat-square&logo=linux&logoColor=000000)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-EFA78E?style=flat-square&logo=ubuntu)
