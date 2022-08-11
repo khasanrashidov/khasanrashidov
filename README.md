@@ -11,7 +11,7 @@
 
 
 
-- 👋 Hi, I’m @khasanrashidov
+- 👋 Hi, I’m Khasan Rashidov (@khasanrashidov)
 - 👀 I’m interested in mathematics
 - 🏸 I like playing badminton
 - 🌱 I’m currently learning python
