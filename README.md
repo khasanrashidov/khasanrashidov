@@ -11,7 +11,7 @@
 
 
 
-- 👋 Hi, I’m Khasan Rashidov (@khasanrashidov)
+- 👋 Hi, I’m [![name](https://img.shields.io/badge/Khasan-Rashidov-00447F?labelColor=432F70&style=flat-square)](https://github.com/khasanrashidov) (@khasanrashidov)
 - 👀 I’m interested in mathematics
 - 🏸 I like playing badminton
 - 🌱 I’m currently learning python
