@@ -61,7 +61,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Khasan Rashidov's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=khasanrashidov&bg_color=00000000&color=F8D866&line=00FF00&point=ECF87F&hide_border=true" /></a>
 
-<hr>
+<hr>           
 
 <!---
 khasanrashidov/khasanrashidov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
