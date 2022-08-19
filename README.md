@@ -12,7 +12,7 @@
 
 
 - 👋 Hi, I’m [![name](https://img.shields.io/badge/Khasan-Rashidov-00447F?labelColor=432F70&style=flat-square)](https://github.com/khasanrashidov) (@khasanrashidov)
-- 👀 I’m interested in mathematics
+- 👀 I’m interested in mathematics and learning languages
 - 🏸 I like playing badminton
 - 🌱 I’m currently learning ![Python](https://img.shields.io/badge/-Python-FFD242?style=flat-square&logo=python)
 - 📫 How to reach me: [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me//khasanrashidov) 
