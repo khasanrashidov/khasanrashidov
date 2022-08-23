@@ -50,6 +50,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 <img alt="Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-7272FF.svg?style=flat-square&logo=asm-hex&logoColor=white">
 <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-ffffff.svg?style=flat-square&logo=java&logoColor=EA2A30">
 <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-grey.svg?style=flat-square&logo=github&logoColor=white">
+<img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-001E36.svg?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF">
 
 <hr>
 
