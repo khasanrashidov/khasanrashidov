@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/badge/Github-khasanr-grey?logo=Github&labelColor=black&style=flat-square)](https://github.com/khasanr)
 [![KakaoTalk](https://img.shields.io/badge/KakaoTalk%20ID-khasanrashidov-yellow?logo=KakaoTalk&labelColor=black&style=flat-square)](mailto:khasanrashidov@kakao.com)
 [![Mail](https://img.shields.io/badge/Student%20Email-k.rashidov2@student.inha.uz-blue?logo=Gmail&logoColor=blue&labelColor=white&style=flat-square)](mailto:k.rashidov2@student.inha.uz)
-[![Mail](https://img.shields.io/badge/Mail.ru-khasan_rashidov.mail.ru-orange?logo=Gmail&logoColor=orange&labelColor=blue&style=flat-square)](mailto:khasan_rashidov@mail.ru)
+[![Mail](https://img.shields.io/badge/Mail.ru-khasan_rashidov@mail.ru-orange?logo=Gmail&logoColor=orange&labelColor=blue&style=flat-square)](mailto:khasan_rashidov@mail.ru)
 [![Mail](https://img.shields.io/badge/yahoo-khasanrashidov@yahoo.com-white?logo=Yahoo&labelColor=purple&style=flat-square)](mailto:khasanrashidov@yahoo.com)
 
 
