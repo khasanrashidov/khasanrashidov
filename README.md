@@ -53,6 +53,8 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-001E36.svg?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF">
 <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-767677.svg?style=flat-square&logo=jupyter&logoColor=F37726">
 <img alt="GitHub" src="https://img.shields.io/badge/Github-black.svg?style=flat-square&logo=github&logoColor=white">
+<img alt="Turbo Pascal" src="https://img.shields.io/badge/Turbo%20Pascal-0B0BFF.svg?style=flat-square&logo=borland-turbo-pascal&logoColor=0B0BFF">
+
 
 <hr>
 
