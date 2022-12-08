@@ -60,10 +60,6 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ## Trophies
 <img style alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=khasanrashidov&theme=nord&bg_color=00000000&hide_border=true&no-frame=true" />
 
-<hr>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Khasan Rashidov's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=khasanrashidov&bg_color=00000000&color=F8D866&line=008DF1&point=F0009C&hide_border=true" /></a>
-
 <hr>           
 
 <!---
