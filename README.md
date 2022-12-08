@@ -41,7 +41,7 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-EFA78E?style=flat-square&logo=ubuntu)
 ![CPP](https://img.shields.io/badge/-C++-D5E4F3?style=flat-square&logo=cplusplus&logoColor=044F88)
 <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-D5E4F3.svg?style=flat-square&logo=c-in-hexagon&logoColor=044F88">
-![C#](https://img.shields.io/badge/-C#-D5E4F3?style=flat-square&logo=csharp&logoColor=044F88)
+![C#](https://img.shields.io/badge/-C%23-D5E4F3?style=flat-square&logo=csharp&logoColor=684D95)
 ![Python](https://img.shields.io/badge/-Python-FFD242?style=flat-square&logo=python)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
