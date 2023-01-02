@@ -55,12 +55,6 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 <img alt="GitHub" src="https://img.shields.io/badge/Github-black.svg?style=flat-square&logo=github&logoColor=white">
 <img alt="Turbo Pascal" src="https://img.shields.io/badge/Turbo%20Pascal-0B0BFF.svg?style=flat-square&logo=borland-turbo-pascal&logoColor=0B0BFF">
 <img alt="regex101" src="https://img.shields.io/badge/regex101-00008B.svg?style=flat-square&logo=regex101&logoColor=00008B">
-
-<hr>
-
-## Trophies
-<img style alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=khasanrashidov&theme=nord&bg_color=00000000&hide_border=true&no-frame=true" />
-
 <hr>           
 
 <!---
