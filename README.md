@@ -16,7 +16,6 @@
 ![Windows](https://img.shields.io/badge/-Windows-055C9D?style=flat-square&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat-square&logo=linux&logoColor=000000)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-EFA78E?style=flat-square&logo=ubuntu)
-
 ![CPP](https://img.shields.io/badge/-C++-D5E4F3?style=flat-square&logo=cplusplus&logoColor=044F88)
 <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-D5E4F3.svg?style=flat-square&logo=c-in-hexagon&logoColor=044F88">
 ![C#](https://img.shields.io/badge/-C%23-D5E4F3?style=flat-square&logo=csharp&logoColor=684D95)
