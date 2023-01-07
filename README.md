@@ -11,6 +11,8 @@
 ## My Tech Stack
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-68217A?style=flat-square&logo=visual-studio)
+![Rider](https://img.shields.io/badge/-Rider-D12A50?style=flat-square&logo=rider)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-E8485C?style=flat-square&logo=intellij-idea)
 ![Vim](https://img.shields.io/badge/-Vim-005D04?style=flat-square&logo=vim)
 ![Windows](https://img.shields.io/badge/-Windows-055C9D?style=flat-square&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat-square&logo=linux&logoColor=000000)
