@@ -12,25 +12,26 @@
 ## My Tech Stack
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-68217A?style=flat-square&logo=visual-studio)
-![Windows](https://img.shields.io/badge/-Windows-055C9D?style=flat-square&logo=windows)
 ![Vim](https://img.shields.io/badge/-Vim-005D04?style=flat-square&logo=vim)
+![Windows](https://img.shields.io/badge/-Windows-055C9D?style=flat-square&logo=windows)
 ![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat-square&logo=linux&logoColor=000000)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-EFA78E?style=flat-square&logo=ubuntu)
+
 ![CPP](https://img.shields.io/badge/-C++-D5E4F3?style=flat-square&logo=cplusplus&logoColor=044F88)
 <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-D5E4F3.svg?style=flat-square&logo=c-in-hexagon&logoColor=044F88">
 ![C#](https://img.shields.io/badge/-C%23-D5E4F3?style=flat-square&logo=csharp&logoColor=684D95)
 ![Python](https://img.shields.io/badge/-Python-FFD242?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat-square&logo=mysql&logoColor=E48E1A)
 <img alt="Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-7272FF.svg?style=flat-square&logo=asm-hex&logoColor=white">
 <img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-ffffff.svg?style=flat-square&logo=java&logoColor=EA2A30">
+<img alt="Turbo Pascal" src="https://img.shields.io/badge/Turbo%20Pascal-0B0BFF.svg?style=flat-square&logo=borland-turbo-pascal&logoColor=0B0BFF">
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat-square&logo=mysql&logoColor=E48E1A)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-grey.svg?style=flat-square&logo=github&logoColor=white">
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-001E36.svg?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF">
 <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-767677.svg?style=flat-square&logo=jupyter&logoColor=F37726">
 <img alt="GitHub" src="https://img.shields.io/badge/Github-black.svg?style=flat-square&logo=github&logoColor=white">
-<img alt="Turbo Pascal" src="https://img.shields.io/badge/Turbo%20Pascal-0B0BFF.svg?style=flat-square&logo=borland-turbo-pascal&logoColor=0B0BFF">
 <img alt="regex101" src="https://img.shields.io/badge/regex101-00008B.svg?style=flat-square&logo=regex101&logoColor=00008B">
 <hr>           
 
