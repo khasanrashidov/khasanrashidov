@@ -2,12 +2,6 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/khasanrashidov?label=Follow%20Me&style=social)](https://github.com/khasanrashidov)  [![Github](https://img.shields.io/github/stars/khasanrashidov?affiliations=OWNER&style=social)](https://github.com/khasanrashidov)  [![Github](https://img.shields.io/github/watchers/khasanrashidov/khasanrashidov?style=social)](https://github.com/khasanrashidov) [![Linkedin](https://img.shields.io/badge/LinkedIn-Khasan%20Rashidov-blue?logo=Linkedin&logoColor=blue&labelColor=black&style=flat-square)](https://www.linkedin.com/in/khasanr)  
 
-<p style="display: flex; justify-content: space-between;">
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="Top Languages" width="370px" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasanrashidov&layout=compact&theme=shades-of-purple&bg_color=00000000&hide_border=true" />
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="stats" width="450px" height="210px" src="https://github-readme-stats.vercel.app/api?username=khasanrashidov&show_icons=true&include_all_commits=true&theme=shades-of-purple&bg_color=00000000&hide_border=true" alt="Khasan's github statistics" />
-</p>
-
-
 <!---
 khasanrashidov/khasanrashidov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
