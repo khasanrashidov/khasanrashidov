@@ -3,6 +3,21 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/khasanrashidov?label=Follow%20Me&style=social)](https://github.com/khasanrashidov)  [![Github](https://img.shields.io/github/stars/khasanrashidov?affiliations=OWNER&style=social)](https://github.com/khasanrashidov)  [![Github](https://img.shields.io/github/watchers/khasanrashidov/khasanrashidov?style=social)](https://github.com/khasanrashidov) [![Linkedin](https://img.shields.io/badge/LinkedIn-Khasan%20Rashidov-blue?logo=Linkedin&logoColor=blue&labelColor=black&style=flat-square)](https://www.linkedin.com/in/khasanr)  
 
 <!--START_SECTION:waka-->
+
+```C#
+From: 31 May 2023 - To: 14 February 2024
+
+Total Time: 649 hrs 5 mins
+
+C#               367 hrs 6 mins  ██████████████░░░░░░░░░░░   56.38 %
+TypeScript       64 hrs 35 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+HTML             38 hrs 9 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+SCSS             28 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Python           14 hrs 10 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+C                5 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+SWIG             3 hrs 30 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+```
+
 <!--END_SECTION:waka-->
 
 <!---
