@@ -4,18 +4,16 @@
 
 <!--START_SECTION:waka-->
 
-```C#
-From: 31 May 2023 - To: 14 February 2024
+```txt
+From: 07 February 2024 - To: 14 February 2024
 
-Total Time: 649 hrs 5 mins
+Total Time: 31 hrs 39 mins
 
-C#               367 hrs 6 mins  ██████████████░░░░░░░░░░░   56.38 %
-TypeScript       64 hrs 35 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-HTML             38 hrs 9 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-SCSS             28 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-Python           14 hrs 10 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-C                5 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-SWIG             3 hrs 30 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+TypeScript   10 hrs 35 mins  ████████▒░░░░░░░░░░░░░░░░   33.39 %
+HTML         6 hrs 24 mins   █████░░░░░░░░░░░░░░░░░░░░   20.20 %
+C#           6 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.27 %
+SCSS         4 hrs 48 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
