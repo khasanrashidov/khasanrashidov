@@ -6,16 +6,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 February 2024 - To: 02 March 2024
+From: 25 February 2024 - To: 03 March 2024
 
-Total Time: 27 hrs 7 mins
+Total Time: 29 hrs 53 mins
 
-TypeScript   9 hrs           ████████░░░░░░░░░░░░░░░░░   33.11 %
-C#           8 hrs 51 mins   ████████░░░░░░░░░░░░░░░░░   32.58 %
-SCSS         3 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-HTML         3 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-XML          26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+C#           11 hrs 6 mins   █████████░░░░░░░░░░░░░░░░   37.05 %
+TypeScript   7 hrs 8 mins    ██████░░░░░░░░░░░░░░░░░░░   23.86 %
+SCSS         3 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+HTML         3 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+Docker       21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+XML          19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Markdown     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
