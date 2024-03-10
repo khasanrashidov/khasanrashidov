@@ -6,16 +6,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2024 - To: 08 March 2024
+From: 02 March 2024 - To: 09 March 2024
 
-Total Time: 19 hrs 15 mins
+Total Time: 14 hrs 56 mins
 
-C#           13 hrs 34 mins  ██████████████████░░░░░░░   70.15 %
-Docker       21 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-XML          20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-TypeScript   16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Markdown     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+C#           10 hrs 34 mins  ██████████████████░░░░░░░   70.41 %
+Docker       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Markdown     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+TypeScript   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+XML          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
