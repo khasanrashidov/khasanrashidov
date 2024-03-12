@@ -6,16 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2024 - To: 10 March 2024
+From: 04 March 2024 - To: 11 March 2024
 
-Total Time: 11 hrs 44 mins
+Total Time: 18 hrs 8 mins
 
-C#           10 hrs 5 mins   █████████████████████░░░░   85.76 %
-TypeScript   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Git Config   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Kotlin       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+C#           15 hrs 44 mins  ██████████████████████░░░   86.04 %
+Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
