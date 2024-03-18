@@ -6,13 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2024 - To: 16 March 2024
+From: 10 March 2024 - To: 17 March 2024
 
-Total Time: 20 hrs 52 mins
+Total Time: 20 hrs 13 mins
 
-C#           17 hrs 39 mins  █████████████████████░░░░   83.05 %
-Kotlin       1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Other        22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+C#         13 hrs 1 min    ████████████████░░░░░░░░░   63.16 %
+Python     4 hrs 29 mins   █████░░░░░░░░░░░░░░░░░░░░   21.82 %
+Kotlin     1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+Other      23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
