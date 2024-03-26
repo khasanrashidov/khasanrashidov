@@ -6,17 +6,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2024 - To: 24 March 2024
+From: 18 March 2024 - To: 25 March 2024
 
-Total Time: 2 hrs 48 mins
+Total Time: 4 hrs 26 mins
 
-Python           1 hr 31 mins    ██████████████░░░░░░░░░░░   54.21 %
-Kotlin           1 hr 6 mins     ██████████░░░░░░░░░░░░░░░   39.47 %
-C#               5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python           3 hrs           █████████████████░░░░░░░░   67.81 %
+Kotlin           1 hr 13 mins    ███████░░░░░░░░░░░░░░░░░░   27.65 %
+C#               5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Markdown         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
