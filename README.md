@@ -6,15 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 March 2024 - To: 30 March 2024
+From: 24 March 2024 - To: 31 March 2024
 
-Total Time: 5 hrs 18 mins
+Total Time: 4 hrs 12 mins
 
-Python           3 hrs 55 mins   ██████████████████░░░░░░░   73.83 %
-Kotlin           1 hr 8 mins     █████░░░░░░░░░░░░░░░░░░░░   21.48 %
-GitIgnore file   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Markdown         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python           2 hrs 54 mins   █████████████████░░░░░░░░   69.17 %
+Kotlin           1 hr 7 mins     ███████░░░░░░░░░░░░░░░░░░   26.61 %
+Markdown         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+GitIgnore file   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
