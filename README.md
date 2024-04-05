@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2024 - To: 03 April 2024
+From: 28 March 2024 - To: 04 April 2024
 
-Total Time: 57 mins
+Total Time: 24 mins
 
-Python           43 mins         ███████████████████░░░░░░   75.22 %
-C#               13 mins         ██████░░░░░░░░░░░░░░░░░░░   24.14 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+C#               13 mins         ██████████████░░░░░░░░░░░   57.23 %
+Python           10 mins         ██████████░░░░░░░░░░░░░░░   41.24 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
