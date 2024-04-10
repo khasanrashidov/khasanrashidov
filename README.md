@@ -6,11 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2024 - To: 08 April 2024
+From: 02 April 2024 - To: 09 April 2024
 
-Total Time: 1 hr 1 min
+Total Time: 2 hrs 8 mins
 
-C#   1 hr 1 min      █████████████████████████   100.00 %
+Kotlin   1 hr 6 mins     █████████████░░░░░░░░░░░░   51.64 %
+C#       1 hr 1 min      ████████████░░░░░░░░░░░░░   48.36 %
 ```
 
 <!--END_SECTION:waka-->
