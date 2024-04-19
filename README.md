@@ -6,19 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2024 - To: 17 April 2024
+From: 11 April 2024 - To: 18 April 2024
 
-Total Time: 3 hrs 30 mins
+Total Time: 6 hrs 24 mins
 
-HTML         1 hr 8 mins     ████████░░░░░░░░░░░░░░░░░   32.23 %
-Kotlin       58 mins         ███████░░░░░░░░░░░░░░░░░░   27.64 %
-SCSS         48 mins         ██████░░░░░░░░░░░░░░░░░░░   22.81 %
-Git Config   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-JSON         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-TypeScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-YAML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+HTML          3 hrs 22 mins   █████████████░░░░░░░░░░░░   50.60 %
+SCSS          1 hr            ████░░░░░░░░░░░░░░░░░░░░░   15.02 %
+Kotlin        58 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.58 %
+TypeScript    33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Other         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 ```
 
 <!--END_SECTION:waka-->
