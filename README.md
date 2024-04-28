@@ -6,14 +6,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2024 - To: 26 April 2024
+From: 20 April 2024 - To: 27 April 2024
 
-Total Time: 23 hrs 37 mins
+Total Time: 26 hrs 22 mins
 
-TypeScript   11 hrs 46 mins  ████████████░░░░░░░░░░░░░   49.86 %
-HTML         9 hrs 44 mins   ██████████░░░░░░░░░░░░░░░   41.20 %
-SCSS         1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-JSON         17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+TypeScript   11 hrs 43 mins  ███████████░░░░░░░░░░░░░░   44.47 %
+HTML         9 hrs 43 mins   █████████░░░░░░░░░░░░░░░░   36.89 %
+Kotlin       2 hrs 41 mins   ███░░░░░░░░░░░░░░░░░░░░░░   10.21 %
+SCSS         1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+JSON         17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
