@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2024 - To: 13 June 2024
+From: 07 June 2024 - To: 14 June 2024
 
-Total Time: 16 hrs 42 mins
+Total Time: 19 hrs 33 mins
 
-TypeScript    12 hrs 3 mins   █████████████████░░░░░░░░   69.35 %
-HTML          3 hrs 25 mins   █████░░░░░░░░░░░░░░░░░░░░   19.71 %
-Other         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+TypeScript    14 hrs 40 mins  █████████████████░░░░░░░░   68.71 %
+HTML          3 hrs 38 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.03 %
+Other         1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
 ```
 
 <!--END_SECTION:waka-->
