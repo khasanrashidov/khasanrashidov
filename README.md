@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2024 - To: 09 August 2024
+From: 03 August 2024 - To: 10 August 2024
 
-Total Time: 26 hrs 30 mins
+Total Time: 26 hrs 29 mins
 
-TypeScript   20 hrs 31 mins  ███████████████████░░░░░░   76.97 %
+TypeScript   20 hrs 30 mins  ███████████████████░░░░░░   76.97 %
 HTML         3 hrs 58 mins   ████░░░░░░░░░░░░░░░░░░░░░   14.93 %
 SCSS         1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
 Other        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
