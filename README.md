@@ -6,17 +6,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2024 - To: 16 August 2024
+From: 10 August 2024 - To: 17 August 2024
 
-Total Time: 23 hrs 45 mins
+Total Time: 26 hrs 3 mins
 
-TypeScript   15 hrs 32 mins  ████████████████░░░░░░░░░   65.43 %
-SCSS         4 hrs 39 mins   █████░░░░░░░░░░░░░░░░░░░░   19.60 %
-HTML         3 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.70 %
-C#           14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Binary       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   17 hrs 4 mins   ████████████████░░░░░░░░░   65.53 %
+SCSS         4 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.87 %
+HTML         3 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.97 %
+TSConfig     24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+C#           14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+JavaScript   13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Binary       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
