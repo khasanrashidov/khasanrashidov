@@ -6,14 +6,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2024 - To: 14 September 2024
+From: 08 September 2024 - To: 15 September 2024
 
-Total Time: 15 hrs 20 mins
+Total Time: 15 hrs 49 mins
 
-HTML         7 hrs 13 mins   ███████████░░░░░░░░░░░░░░   45.62 %
-TypeScript   6 hrs 20 mins   ██████████░░░░░░░░░░░░░░░   39.99 %
-SCSS         1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-Other        30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+HTML         7 hrs 13 mins   ███████████░░░░░░░░░░░░░░   45.67 %
+TypeScript   6 hrs 20 mins   ██████████░░░░░░░░░░░░░░░   40.04 %
+SCSS         1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+C#           30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+SQL          13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
