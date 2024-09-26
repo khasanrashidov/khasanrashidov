@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2024 - To: 24 September 2024
+From: 18 September 2024 - To: 25 September 2024
 
-Total Time: 5 hrs
+Total Time: 4 hrs 16 mins
 
-TypeScript   3 hrs 1 min     ███████████████░░░░░░░░░░   60.44 %
-SCSS         1 hr 4 mins     █████░░░░░░░░░░░░░░░░░░░░   21.43 %
-HTML         54 mins         █████░░░░░░░░░░░░░░░░░░░░   18.13 %
+TypeScript   2 hrs 54 mins   █████████████████░░░░░░░░   67.75 %
+SCSS         1 hr 4 mins     ██████░░░░░░░░░░░░░░░░░░░   25.05 %
+HTML         18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
 ```
 
 <!--END_SECTION:waka-->
