@@ -2,16 +2,8 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Linkedin](https://img.shields.io/badge/LinkedIn-Khasan%20Rashidov-blue?logo=Linkedin&logoColor=blue&labelColor=black&style=flat-square)](https://www.linkedin.com/in/khasanr)  
 
-#### My coding stats...
+<!-- #### My coding stats... -->
 <!--START_SECTION:waka-->
-
-```txt
-From: 23 September 2024 - To: 30 September 2024
-
-Total Time: 0 secs
-
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
 
